@@ -1,6 +1,3 @@
-def hello_t
+# lib/hello.rb
 
-end
-
-# call your method here!
 
